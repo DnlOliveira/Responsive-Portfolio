@@ -250,17 +250,18 @@ hr {
 		width: 70%;
 		position: relative;
 		left: 50px;
-		top: -632px;
+		top: -760px;
 	}
 	#label3 {
 		width: 70%;
 		position: relative;
-		top: -445px;
+		top: -522px;
 	}
 	#label4 {
 		width: 70%;
 		position: relative;
 		left: 50px;
+		top: -282px;
 	}
 }
 @media screen and (max-width: 768px) {
@@ -326,21 +327,21 @@ hr {
 		width: 40%;
 		margin: 0px;
 		position: relative;
-		top: -362px;
+		top: -440px;
 		left: 398px;
 	}
 	#label3 {
 		width: 40%;
 		margin: 0px;
 		position: relative;
-		top: -196px;
+		top: -221px;
 		left: 30px;
 	}
 	#label4 {
 		width: 40%;
 		margin: 0px;
 		position: relative;
-		top: -256px;
+		top: -284px;
 		left: 398px;
 	}
 }
